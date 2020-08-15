@@ -1,0 +1,13 @@
+C:\Users\Kaushal\source\repos\Net22-FinalExam\Events\bin\Debug\netcoreapp3.1\Events.exe
+C:\Users\Kaushal\source\repos\Net22-FinalExam\Events\bin\Debug\netcoreapp3.1\Events.deps.json
+C:\Users\Kaushal\source\repos\Net22-FinalExam\Events\bin\Debug\netcoreapp3.1\Events.runtimeconfig.json
+C:\Users\Kaushal\source\repos\Net22-FinalExam\Events\bin\Debug\netcoreapp3.1\Events.runtimeconfig.dev.json
+C:\Users\Kaushal\source\repos\Net22-FinalExam\Events\bin\Debug\netcoreapp3.1\Events.dll
+C:\Users\Kaushal\source\repos\Net22-FinalExam\Events\bin\Debug\netcoreapp3.1\Events.pdb
+C:\Users\Kaushal\source\repos\Net22-FinalExam\Events\obj\Debug\netcoreapp3.1\Events.csprojAssemblyReference.cache
+C:\Users\Kaushal\source\repos\Net22-FinalExam\Events\obj\Debug\netcoreapp3.1\Events.AssemblyInfoInputs.cache
+C:\Users\Kaushal\source\repos\Net22-FinalExam\Events\obj\Debug\netcoreapp3.1\Events.AssemblyInfo.cs
+C:\Users\Kaushal\source\repos\Net22-FinalExam\Events\obj\Debug\netcoreapp3.1\Events.csproj.CoreCompileInputs.cache
+C:\Users\Kaushal\source\repos\Net22-FinalExam\Events\obj\Debug\netcoreapp3.1\Events.dll
+C:\Users\Kaushal\source\repos\Net22-FinalExam\Events\obj\Debug\netcoreapp3.1\Events.pdb
+C:\Users\Kaushal\source\repos\Net22-FinalExam\Events\obj\Debug\netcoreapp3.1\Events.genruntimeconfig.cache

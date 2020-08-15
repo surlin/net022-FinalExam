@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "R4c0qjfYcwg/BahLVF+uaGL2Zw8HZeNSjVM6X+nbFn6tZS2u1IHHiE1XaiPcs7Ea22HDtXlki036mUJoOUPfqQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kaushal\\source\\repos\\Net22-FinalExam\\Generics\\Generics.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kaushal\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
